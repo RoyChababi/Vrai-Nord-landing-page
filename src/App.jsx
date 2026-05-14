@@ -53,7 +53,7 @@ const products = [
   {
     title: 'Price Engine',
     description:
-      'A pricing automation and OCR platform for medical test catalogs and laboratory pricing data, built to help private medical operators extract, normalize, compare, and manage pricing information faster with fewer manual errors.',
+      'A pricing software for medical test catalogs and laboratory pricing data, built to help private medical operators extract, normalize, compare, and manage pricing information faster with fewer manual errors.',
   },
   {
     title: 'RestoPort',
