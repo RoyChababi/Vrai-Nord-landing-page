@@ -109,7 +109,7 @@ function App() {
                 Montreal • Med-Tech • Operational Systems
               </p>
               <h1 className="text-4xl font-semibold leading-tight text-white md:text-6xl">
-                Software solutions for specialized medical and operational workflows.
+                Software solutions for specialized operational Systems.
               </h1>
               <p className="mt-6 max-w-2xl text-lg text-slate-300">
                 Vrai Nord EPM Inc. builds software systems for private clinics, laboratories, medical logistics, and
@@ -232,9 +232,8 @@ function App() {
             </div>
             <div className="space-y-3 text-slate-200">
               <p className="flex items-center gap-2"><BriefcaseBusiness className="h-4 w-4 text-cyan-300" /> info@vrainord.ca</p>
-              <p className="flex items-center gap-2"><BriefcaseBusiness className="h-4 w-4 text-cyan-300" /> contact@vrainord.ca</p>
               <p className="flex items-center gap-2"><MapPin className="h-4 w-4 text-cyan-300" /> Montreal, Quebec</p>
-              <p className="flex items-center gap-2"><Phone className="h-4 w-4 text-cyan-300" /> +1 (514) 000-0000</p>
+              <p className="flex items-center gap-2"><Phone className="h-4 w-4 text-cyan-300" /> +1 (438) 922-2595</p>
               <a href="mailto:info@vrainord.ca" className="mt-4 inline-flex items-center gap-2 rounded-xl bg-cyan-500 px-4 py-2 font-medium text-slate-950">
                 Contact by Email <Gauge className="h-4 w-4" />
               </a>
