@@ -11,7 +11,7 @@ export function Contact() {
         </div>
         <div className="contact-card">
           <p>
-            <strong>Email:</strong> <a href="mailto:info@vrainord.ca">info@vrainord.ca</a>
+            <strong>Email:</strong> <a href="mailto:support@vrainord.ca">support@vrainord.ca</a>
           </p>
           <p>
             <strong>Location:</strong> Montreal, Quebec

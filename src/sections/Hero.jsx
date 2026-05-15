@@ -13,7 +13,7 @@ export function Hero() {
             <a className="btn btn-primary" href="#contact">
               Book a Discovery Call
             </a>
-            <a className="btn btn-secondary" href="mailto:info@vrainord.ca">
+            <a className="btn btn-secondary" href="mailto:support@vrainord.ca">
               Email Us
             </a>
           </div>

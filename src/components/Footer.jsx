@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="footer">
       <div className="container footer-wrap">
         <p>© {new Date().getFullYear()} Vrai Nord EPM. All rights reserved.</p>
-        <a href="mailto:info@vrainord.ca">info@vrainord.ca</a>
+        <a href="mailto:support@vrainord.ca">support@vrainord.ca</a>
       </div>
     </footer>
   )
